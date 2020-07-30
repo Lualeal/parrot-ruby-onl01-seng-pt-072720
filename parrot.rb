@@ -14,5 +14,5 @@ def parrot
 end
 
 def parrot(phrase)
-  return "phrase"
+  return phrase
 end
