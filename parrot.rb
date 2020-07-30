@@ -17,7 +17,8 @@
  # return phrase
 #end
 
-def parrot
+def parrot(phrase)
   puts "Squawk!"
   return "Squawk!"
+  puts phrase
 end 
